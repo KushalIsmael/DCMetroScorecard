@@ -5,3 +5,5 @@ Our project recreates Tableau's Makeover Monday challenge from 2016 but utilizes
 Bootstrap template used for our website is from Start Bootstrap and can be found here: https://startbootstrap.com/theme/agency
 
 The presentation slide deck can be accessed here: https://docs.google.com/presentation/d/1eUtyhpjvutsoEG72V6Lzia4RmEEw072TrSJJquFvLa0/edit?usp=sharing
+
+A demonstration video of our website and QuickSight dashboards can be accessed here: https://drive.google.com/file/d/1G5EKHFYNwlreHnQcjQeiDT33I7WoROJH/view?usp=sharing
